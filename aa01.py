@@ -1,0 +1,5 @@
+print("hello world!")
+a=input("请输入数字1：")
+b=input("请输入数字2：")
+print(int(a)+int(b))
+print(123)
